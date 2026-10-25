@@ -1,0 +1,22 @@
+{
+  "editor:delete-paragraph": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:toggle-checklist-status": [],
+  "editing-toolbar:ai-inline-completion": [],
+  "plugin-reloader:realclaudian": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "plugin-reloader:editing-toolbar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ]
+}
