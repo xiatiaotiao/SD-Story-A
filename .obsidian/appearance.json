@@ -1,4 +1,5 @@
 {
   "cssTheme": "Kami Reader",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": true
 }
